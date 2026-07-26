@@ -1,0 +1,20 @@
+ ## Project Description:
+ The Akan Name Generator is a web application that generates a user's traditional Akan Name based on their date of birth and gender . 
+
+## Features
+_Enter your date of Birth
+_Select your gender
+_Calculatethe day of the week you were born.
+_Display the corresponding Akan name.
+_Responsive and user-friendly interface
+
+## Technologies
+_ HTML
+_CSS
+_Java script
+
+##  License
+This project is licensed under the MIT Lincense
+
+## Author
+Edwin

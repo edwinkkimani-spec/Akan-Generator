@@ -37,12 +37,9 @@ function calculateAkanName() {
     const akanName = akanNames[gender][dayIndex];
 
     resultDisplay.textContent =
-        "You were born on a " + dayName + ". Your Akan name is " + akanName + "!";
+        "You were born on a " + dayName + ". Your Akan name is :" + akanName + "!";
 }
 
 function resetResult() {
-    document.getElementById("resultDisplay").textContent = "";
+    document.getElementById("resultDisplay")("click", resetResult);
 }
-
-document.getElementById("submitBtn").addEventListener("click", calculateAkanName);
-document.getElementById("resetBtn").addEventListener("click", resetResult);
