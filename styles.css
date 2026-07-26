@@ -19,7 +19,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 20px 40px;
-    background-color: #1a1a1a;
+    background-color:red;
     flex-wrap: wrap;
 }
 
